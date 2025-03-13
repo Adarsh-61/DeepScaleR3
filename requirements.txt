@@ -1,0 +1,31 @@
+# python.exe -m pip install --upgrade pip
+# pip install streamlit
+# pip install opencv-python
+# pip install deepface
+# pip install retina-face
+# pip install numpy
+# pip install Pillow
+# pip install pandas
+# pip install plotly
+# pip install mtcnn
+# pip install tensorflow
+# pip install tf-keras
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+
+
+# THIS IS FOR THE CLOUD VERSION. YOU DO NOT NEED TO INSTALL THIS VERSION ON YOUR LOCAL MACHINE. IF YOU WANT TO RUN THIS MODEL ON YOUR LOCAL MACHINE, YOU CAN INSTALL THE COMMENTED VERSION ABOVE.
+streamlit
+opencv-python
+deepface
+retina-face
+numpy
+Pillow
+pandas
+plotly
+mtcnn
+tensorflow
+tf-keras
+--index-url https://download.pytorch.org/whl/cu126
+torch
+torchvision
+torchaudio
