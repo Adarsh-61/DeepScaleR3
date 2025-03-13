@@ -25,7 +25,7 @@ plotly
 mtcnn
 tensorflow
 tf-keras
---index-url https://download.pytorch.org/whl/cu126
-torch
-torchvision
-torchaudio
+# --index-url https://download.pytorch.org/whl/cu126
+# torch
+# torchvision
+# torchaudio
